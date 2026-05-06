@@ -21,3 +21,5 @@ Math Pillar: Ovi
 Optimizer: Lilia & Ethar
 
 Lead Devs: Atiyeh & Fatima
+
+Project Manager: Ruqaiyah Mirza
